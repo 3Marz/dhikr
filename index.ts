@@ -30,7 +30,7 @@ Usage:
   dhikr [options]
 
 Options:
-  --ar            display in arabic (it well render incorctly in most terminal)
+  --ar            display in arabic (it well render incorrectly in most terminal)
   --separator -s  the separator between the dhikr and the category of the dhiker, default '-'
 `,
 	{
