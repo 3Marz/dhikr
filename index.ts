@@ -1,9 +1,12 @@
 #!/usr/bin/env node  
 import sqlite3 from "sqlite3"
 import meow from "meow"
-const {Database} = sqlite3
+import { dirname } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const db = new Database("./dhiker.db") 
+const _dirname = dirname(fileURLToPath(import.meta.url))
+const {Database} = sqlite3
+const db = new Database(_dirname+"/dhikr.db") 
 
 type Lang = "ar" | "en"
 type Sunnah = {
