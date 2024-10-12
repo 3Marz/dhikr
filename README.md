@@ -2,7 +2,7 @@
 
 ## A small script to show a random dhikr/sunnah in your terminal
 
-![](https://raw.githubusercontent.com/3Marz/dhikr/main/assets/screenshot.png)
+![](https://raw.githubusercontent.com/3Marz/dhikr/refs/heads/main/assets/screenshot.png)
 
 ## Instaltion :
 ```
