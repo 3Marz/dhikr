@@ -1,4 +1,4 @@
-# Diker
+# Dhikr
 
 ## A small script to show a random dhikr/sunnah in your terminal
 
