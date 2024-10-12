@@ -24,14 +24,14 @@ type Flags = {
 }
 
 const cli = meow(`
-A small script to show a random sunnah/dhiker
+A small script to show a random sunnah/dhikr
 
 Usage:
-  dhiker [options]
+  dhikr [options]
 
 Options:
   --ar            display in arabic (it well render incorctly in most terminal)
-  --separator -s  the separator between the dhiker and the category of the dhiker, default '-'
+  --separator -s  the separator between the dhikr and the category of the dhiker, default '-'
 `,
 	{
 		importMeta: import.meta,

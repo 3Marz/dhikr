@@ -11,11 +11,11 @@ npm i -g dhikr
 
 # Usage :
 ```
-dhiker [options]
+dhikr [options]
 
 Options:
   --ar            display in arabic (it well render incorctly in most terminal)
-  --separator -s  the separator between the dhiker and the category of the dhiker, default '-'
+  --separator -s  the separator between the dhikr and the category of the dhiker, default '-'
 ```
 
 ## The Database :
